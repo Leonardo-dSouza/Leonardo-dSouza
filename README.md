@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
-
-<img height=280,280 align=right src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
+<img height=300,300 align=center src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
 
 
 <h3>Sobre mim</h3>
@@ -48,7 +46,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador lcvb">
 
 #### Secondary Stack:
 
