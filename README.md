@@ -18,29 +18,29 @@
   ### ⚙️ GitHub Analytics
 
 <div>
-<a>
-  <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Leonardo-dSouza&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"/>
-</a>
-<a>
+  <span>
       <img
-        align="right"
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false"
         alt="Github Stats"/>    
-<a/>
+  <span/>
 <div/>
         
 <div>
 <img
-        align="right"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-dSouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"/>
 <div/>
 
 <div>
-<hr>
+
+
+
+  <img height=125,125 align="right" src="https://media.giphy.com/media/g0QkFUCXM5MDwEYp0N/200.gif"/>
+<div/>
+  
+<spam>
 <h3>## My Skills<h3/>
 
 #### Main Stack:
@@ -50,7 +50,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador lcvb">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador lcvb">
 
 #### Secondary Stack:
 
@@ -67,7 +67,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-<div/>
+<spam/>
 
 <div align="center">
   <h3><b>🌱Contador de Visitas🌱</b></h3>
