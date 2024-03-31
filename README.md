@@ -1,4 +1,4 @@
-<img height=300,300 align=center src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
+<img height=280,280 align=right src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
 
 
 <h3>Sobre mim</h3>
@@ -10,6 +10,10 @@
 - 📜 Incorporando filosfias, melhorando o auto rendimento.
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de São Paulo <a href="https://www.cps.sp.gov.br/cursos-fatec/analise-e-desenvolvimento-de-sistemas/">Fatec</a>.
 - 💼 Trabalhando em novos projetos para aperfeiçoar meus conhecimentos.
+
+<div>
+  <p><hr></p>
+</div>
 
   ### ⚙️ GitHub Analytics
 
