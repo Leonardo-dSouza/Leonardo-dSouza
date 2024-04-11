@@ -1,73 +1,67 @@
-<img height=280,280 align=right src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
+<div align="center">
+  <img height=280, 280 src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
+</div>
 
-
-<h3>Sobre mim</h3>
 ## Sobre mim
 
-- ​👋 Olá, meu nome é Leonardo Cristiano de Souza e tenho 18 anos!
+- ​👋 Meu nome é Leonardo Cristiano de Souza e tenho 18 anos!
 - 🧑‍💻​ Ativamente motivado a buscar soluções.
 - ⏱️​ Aplicando metodologias ágeis no dia a dia.
 - 📜 Incorporando filosfias, melhorando o auto rendimento.
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de São Paulo <a href="https://www.cps.sp.gov.br/cursos-fatec/analise-e-desenvolvimento-de-sistemas/">Fatec</a>.
 - 💼 Trabalhando em novos projetos para aperfeiçoar meus conhecimentos.
 
-<div>
-  <p><hr></p>
-</div>
+<hr>
 
   ### ⚙️ GitHub Analytics
 
-<div>
-  <span>
-      <img
-        align="left"
+<div align="center">
+  <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false"
         alt="Github Stats"/>    
-  <span/>
 <div/>
         
-<div>
-<img
-        align="center"
+<div align="center">
+  <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-dSouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"/>
 <div/>
 
-<div>
-
-
-
-  <img height=125,125 align="right" src="https://media.giphy.com/media/g0QkFUCXM5MDwEYp0N/200.gif"/>
+<div align="center">
+  <img height=125,125 src="https://media.giphy.com/media/g0QkFUCXM5MDwEYp0N/200.gif"/>
 <div/>
-  
-<spam>
-<h3>## My Skills<h3/>
+<hr>
 
-#### Main Stack:
+  
+<div align="left">  
+  
+## My skills
+
+### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador lcvb">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="notebook img">
 
-#### Secondary Stack:
+### Secondary Stack:
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+### Studying in this moment:
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-<spam/>
+</div>
 
 <div align="center">
   <h3><b>🌱Contador de Visitas🌱</b></h3>
