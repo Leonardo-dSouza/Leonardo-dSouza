@@ -1,6 +1,6 @@
 <div align="center">
-  <img height=280, 280 src="https://camo.githubusercontent.com/58cfe2601d00a43481a06c83d377b4e54c6f0a8833fe9e373589b8d0b99fe533/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966"/>
-</div>
+
+![Pixilart - Live on.gif](Pixilart%20-%20Live%20on.gif)
 
 ## Sobre mim
 
@@ -78,10 +78,9 @@
 
 ## Contacts:
 
-<div> 
 <a href="https://www.instagram.com/leoo_boas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.leonardovilas2014@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" alt=""/>
