@@ -16,9 +16,9 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false" alt="Github Stats" width="35%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false" alt="Github Stats" width="45%"/>
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Imagem" width="35%">
+  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Imagem" width="50%">
 </div>
 </div>
 
