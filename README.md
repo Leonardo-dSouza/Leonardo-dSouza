@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 👋 Meu nome é Leonardo Cristiano de Souza e tenho 18 anos!
+- 👋 Meu nome é **Leonardo Cristiano de Souza** e tenho **18 anos**!
 - 🧑‍💻 Ativamente motivado a buscar soluções.
 - ⏱️ Aplicando metodologias ágeis no dia a dia.
 - 📜 Incorporando filosofias, melhorando o auto rendimento.
@@ -16,41 +16,47 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false" alt="Github Stats"/>    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-dSouza&theme=dark&hide_border=false" alt="Github Stats" width="35%"/>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Imagem" width="35%">
+</div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-dSouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-</div>
 
-<div align="center">
-  <img width="80%" src="https://media.giphy.com/media/g0QkFUCXM5MDwEYp0N/200.gif" alt="Gif divertido"/>
-</div>
 
 ---
 
 ## Minhas habilidades
 
+<div style="display: flex; justify-content: space-between; width: 100%;">
+
+<div style="text-align: left; width: 48%;">
+
 ### Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,git,flask,java,mysql,aws&perline=3)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350" align="right" alt="Notebook">
-
-### Secondary Stack:
-[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,tailwind,unreal)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,git,flask,java,mysql,aws&perline=3)
 
 ### Estudando no momento:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,linux)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,linux)
+
+</div>
+
+<div style="text-align: right; width: 48%;">
+
+### Secondary Stack:
+![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,tailwind)
 
 ### Ferramentas de Trabalho:
+![My Skills](https://skillicons.dev/icons?i=idea,discord,md,notion,obsidian,vscode&)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,discord,md,notion,obsidian,vscode&perline=3)](https://skillicons.dev)
+</div>
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://media.giphy.com/media/g0QkFUCXM5MDwEYp0N/200.gif" alt="Gif divertido"/>
+</div>
 
 ---
----
----
-
-
 
 ## Contatos:
 
