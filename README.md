@@ -4,9 +4,8 @@
 
 ## Sobre mim
 
-- 👋 Meu nome é **Leonardo Cristiano de Souza** e tenho **18 anos**!
-- 🧑‍💻 Ativamente motivado a buscar soluções.
-- ⏱️ Aplicando metodologias ágeis no dia a dia.
+-  **Leonardo Cristiano de Souza** - **18 anos**!
+- Buscando soluções.
 - 📜 Incorporando filosofias, melhorando o auto rendimento.
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na [Fatec](https://www.cps.sp.gov.br/cursos-fatec/analise-e-desenvolvimento-de-sistemas/).
 - 💼 Trabalhando em novos projetos para aperfeiçoar meus conhecimentos.
@@ -25,8 +24,6 @@
 
 
 ---
-
-## Minhas habilidades
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
 
