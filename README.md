@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
--  **Leonardo Cristiano de Souza** - **18 anos**!
+-  **Leonardo Cristiano de Souza** - **20 anos**!
 - Buscando soluções.
 - 📜 Incorporando filosofias, melhorando o auto rendimento.
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na [Fatec](https://www.cps.sp.gov.br/cursos-fatec/analise-e-desenvolvimento-de-sistemas/).
@@ -30,7 +30,7 @@
 <div style="text-align: left; width: 48%;">
 
 ### Main Stack:
-![My Skills](https://skillicons.dev/icons?i=python,git,flask,java,mysql,aws&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,git,flask,java,mysql,node,ts,aws&perline=3)
 
 ### Estudando no momento:
 ![My Skills](https://skillicons.dev/icons?i=kotlin,java,linux)
